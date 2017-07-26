@@ -1,0 +1,9 @@
+Bundle-Name: com.liferay.project.templates.mvc.portlet
+Bundle-SymbolicName: com.sofgen.liferay
+Bundle-Version: 1.03
+Export-Package: com.sofgen.liferay.constants
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
+-plugin.resourcebundle: com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin
+-plugin.sass: com.liferay.ant.bnd.sass.SassAnalyzerPlugin
+-sass: *
