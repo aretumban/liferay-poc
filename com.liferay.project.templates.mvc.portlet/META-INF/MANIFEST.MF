@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Portlet
+Bundle-SymbolicName: com.liferay.project.templates.mvc.portlet
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.sofgen.liferay.constants,
+ com.sofgen.liferay.portlet
